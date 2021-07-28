@@ -2,7 +2,7 @@
 D3.js Narrative Visualization for CS416 Data Visualization 
 
 # Project
-This project is hosted live on Github Pages at .
+This project is hosted live on Github Pages at https://icyguy64.github.io.
 
 # Introduction
 This narrative visualization is an interactive slideshow which takes the user through the Yelp restaurant dataset. The dataset consists of the reviews and aggregated check-ins over time of numerous businesses located throughout various metropolitans across the globe but we'll only focus on a couple of states in the United States to reduce the computational complexity of the preprocessing of the dataset. This visualization focuses on the data from the United States which includes the following states: British Columbia, Colarado, Florida, Georgia, Massachusetts, Ohio, Texas and Washington.
